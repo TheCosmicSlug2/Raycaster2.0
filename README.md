@@ -1,4 +1,4 @@
-# Raycaster False 3D
+# Maze Raycaster 2.0
 
 Upgraded version of last raycaster project
 
